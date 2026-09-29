@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(252, 143, 27);
+}
+
+
+body {
+  font-family: "Sofia", sans-serif;
+}
+
+body {
+  color: rgb(51, 0, 255);
+}
+
+h1 {
+  color: rgb(7, 173, 239);
+}
+
+h2 {
+  color: rgb(168, 220, 25);
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  
+}
+
+ol,
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+
+h1 {
+  text-shadow: 2px 2px 5px rgb(236, 186, 100);
+}
+
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 32px;
+}
+
+li {
+  color: rgb(255, 0, 255);
+  padding: 5px 0;
+}
+
+img {
+  border-radius: 8px;
+  border: 2px solid #333;
+  margin: auto;
+}
+
+a:link {
+  color: rgb(149, 0, 255);
+}
+
+a:visited {
+  color: rgb(0, 128, 0);
+}
+
+a:hover {
+  color: rgb(227, 251, 147);
+}
+
+a:active {
+  color: rgb(0, 0, 255);
+}
