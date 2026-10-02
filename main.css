@@ -78,3 +78,15 @@ a:hover {
 a:active {
   color: rgb(0, 0, 255);
 }
+
+.contenido {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.fotos img {
+  max-width: 100%;
+  height: auto;
+}
